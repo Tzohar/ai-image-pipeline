@@ -39,3 +39,29 @@ To start the automation loop:
 
 ```bash
 npm start
+
+```
+
+The bot will:
+
+1. Generate a random prompt.
+2. Create images using Bing.
+3. Upload them to Cloudinary.
+4. Post the links to your Discord channel.
+5. Wait and repeat.
+
+## 📦 Tech Stack
+
+* **Runtime:** Node.js
+* **Image Gen:** Bing Image Creator (unofficial API)
+* **Storage:** Cloudinary
+* **Notifications:** Discord.js Webhooks
+* **Browser Automation:** Puppeteer (for upscaling)
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes. Please respect the Terms of Service of all APIs used (Bing, Cloudinary, Discord, DeepAI).
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.

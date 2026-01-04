@@ -1,3 +1,4 @@
+⚠️ Status: Archived. This project was built in 2023 and is no longer actively maintained. 
 # 🎨 AI Art Automation Pipeline
 
 A robust Node.js bot that automates the creation, hosting, and delivery of AI-generated artwork. It leverages Bing Image Creator for generation, Cloudinary for persistent storage, and Discord Webhooks for real-time notifications.

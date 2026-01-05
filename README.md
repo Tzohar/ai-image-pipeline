@@ -62,7 +62,3 @@ The bot will:
 ## ⚠️ Disclaimer
 
 This project is for educational purposes. Please respect the Terms of Service of all APIs used (Bing, Cloudinary, Discord, DeepAI).
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.

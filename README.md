@@ -15,7 +15,7 @@ A robust Node.js bot that automates the creation, hosting, and delivery of AI-ge
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/tzohar/ai-image-pipeline.git](https://github.com/tzohar/ai-image-pipeline.git)
+    git clone https://github.com/tzohar/ai-image-pipeline.git
     cd YOUR_REPO_NAME
     ```
 

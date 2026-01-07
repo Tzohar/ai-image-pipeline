@@ -1,9 +1,9 @@
 ⚠️ Status: Archived. This project was built in 2023 and is no longer actively maintained. 
-# 🎨 AI Art Automation Pipeline
+# AI Art Automation Pipeline
 
 A robust Node.js bot that automates the creation, hosting, and delivery of AI-generated artwork. It leverages Bing Image Creator for generation, Cloudinary for persistent storage, and Discord Webhooks for real-time notifications.
 
-## ✨ Features
+## Features
 
 * **Automated Generation:** Uses `bimg` to interface with Bing Image Creator.
 * **Cloud Storage:** Automatically uploads base64 images to Cloudinary for permanent hosting.
@@ -11,7 +11,7 @@ A robust Node.js bot that automates the creation, hosting, and delivery of AI-ge
 * **Upscaling Capable:** Includes modules for upscaling via DeepAI or Replicate (configurable).
 * **Error Handling:** Robust retry logic for failed generations or uploads.
 
-## 🚀 Installation
+## Installation
 
 1.  **Clone the repository**
     ```bash
@@ -51,7 +51,7 @@ The bot will:
 4. Post the links to your Discord channel.
 5. Wait and repeat.
 
-## 📦 Tech Stack
+## Tech Stack
 
 * **Runtime:** Node.js
 * **Image Gen:** Bing Image Creator (unofficial API)
@@ -59,6 +59,6 @@ The bot will:
 * **Notifications:** Discord.js Webhooks
 * **Browser Automation:** Puppeteer (for upscaling)
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is for educational purposes. Please respect the Terms of Service of all APIs used (Bing, Cloudinary, Discord, DeepAI).

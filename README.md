@@ -34,7 +34,7 @@ A robust Node.js bot that automates the creation, hosting, and delivery of AI-ge
     DISCORD_WEBHOOK_URL=your_webhook_url
     ```
 
-## 🛠️ Usage
+## Usage
 
 To start the automation loop:
 
